@@ -12,7 +12,6 @@
   "dependencies": {
     "@material-ui/core": "^4.11.1",
     "@material-ui/icons": "^4.9.1",
-    "@react-navigation/material-top-tabs": "^5.3.10",
     "react": "16.13.1",
     "react-native": "0.63.3",
     "react-native-bootsplash": "^3.1.2",
@@ -45,7 +44,6 @@
     "@typescript-eslint/parser": "^2.27.0",
     "babel-jest": "^25.1.0",
     "babel-loader": "^8.2.2",
-    "detox": "^17.14.1",
     "eslint": "^6.5.1",
     "jest": "^25.1.0",
     "jest-circus": "^26.6.3",
